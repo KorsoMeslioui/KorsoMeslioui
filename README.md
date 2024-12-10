@@ -41,7 +41,7 @@
         <img src=./7395BB3C-0815-40BA-BF02-91E23D5DE08B.jpeg" alt="KorsoMeslioui Finance™️ Logo" class="logo">
         <div class="contact-info">
             <h2>Contactez-nous</h2>
-            <p>Email: <a href="mailto:pr.meslioui@proton.com">votre.email@exemple.com</a></p>
+            <p>Email: <a href="mailto:pr.meslioui@proton.me">pr.meslioui@proton.me</a></p>
             <p>Téléphone: +213555158509</p>
         </div>
     </div>
